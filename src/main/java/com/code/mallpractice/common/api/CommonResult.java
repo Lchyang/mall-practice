@@ -1,5 +1,7 @@
 package com.code.mallpractice.common.api;
 
+import java.util.ArrayList;
+
 /**
  * 通用返回对象
  */
